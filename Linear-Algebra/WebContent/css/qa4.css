@@ -1,0 +1,71 @@
+body, h1, h2, h3, h4, h5, h6, dd, p {
+  margin: 0;
+  padding: 0;
+  line-height: normal;
+  font-family: 'Microsoft YaHei'; }
+
+a {
+  color: #3399ea; }
+  a:hover, a:active {
+    color: #ca0c16; }
+
+body {
+  background: #f7f7f7;
+  font-family: 'Microsoft YaHei','SF Pro Display',Roboto,Noto,Arial,'PingFang SC',sans-serif !important;
+  font-size: 12px; }
+
+.clearfix:after {
+  content: '.';
+  height: 0;
+  visibility: hidden;
+  display: block;
+  clear: both; }
+
+.csdn-toolbar .container {
+  width: 1170px; }
+
+#notify-center .csdn-toolbar .on .on-profile-icon .ft .pull-right {
+  margin-top: 0; }
+
+.csdn-toolbar .icon-cog:before {
+  content: none; }
+
+.csdn-toolbar .icon-signout:before {
+  content: none; }
+
+#csdn_divh .csdn_loginbox {
+  padding: 3px; }
+
+#csdn_divh .csdn_loginbox .login_content {
+  padding: 40px 82px;
+  border: solid 1px #ccc; }
+
+#csdn_divh .csdn_loginbox .login_content .close {
+  box-sizing: border-box;
+  opacity: 1; }
+
+#csdn_divh .csdn_loginbox .login_content label {
+  display: inline; }
+
+#csdn_divh .csdn_loginbox .login_content label p {
+  padding: 4px 0 0 0; }
+
+#csdn_divh .csdn_loginbox .login_content label p input[type='checkbox'] {
+  margin: 0; }
+
+.main .bdsharebuttonbox .shareStyle {
+  display: block;
+  width: 15px;
+  height: 19px;
+  float: right;
+  background: url(//csdnimg.cn/release/ask/assets/share_icon-66db471949c2ed15932259f8c9282b75.png) left center no-repeat; }
+
+.main .bdsharebuttonbox .shareStyle:hover {
+  background: url(//csdnimg.cn/release/ask/assets/share_icon_hover-607b9737b7df0552c8aef409bf7fab05.png) no-repeat scroll left center rgba(0, 0, 0, 0); }
+
+.csdn-toolbar .logo .img {
+  background: url(//csdnimg.cn/release/ask/assets/f_name-8debe0368bda41d799ede2893a44b745.png) left center no-repeat;
+  float: left;
+  height: 40px;
+  margin-left: 10px;
+  width: 120px; }
